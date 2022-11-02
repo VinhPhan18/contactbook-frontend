@@ -132,6 +132,4 @@ export default {
 }
 </style>
 
-updateContact
-
-name
+updateContact name
